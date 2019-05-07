@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/buttons_activity_tvMensaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="seleccione una opción"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/buttons_activity_btnButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="button" />
+
+    <ImageButton
+        android:id="@+id/buttons_activity_ibtImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="ok"
+        android:src="@drawable/ok" />
+
+    <ToggleButton
+        android:id="@+id/buttons_activity_tglToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOn="on"
+        android:textOff="off" />
+
+    <Button
+        android:id="@+id/buttons_activity_btnButtonCI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ok"
+        android:text="presionar" />
+
+    <ToggleButton
+        android:id="@+id/buttons_activity_tglToggleButtonCI"
+        android:textOn="on"
+        android:textOff="off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/toggle_style"
+        android:padding="10dip"
+        android:textStyle="bold" />
+
+</LinearLayout>

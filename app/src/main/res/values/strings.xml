@@ -1,0 +1,328 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_response">ResponseActivity</string>
+    <string name="lake_of_fire">Lake of Fire</string>
+    <string name="aplicaci_n_de_muestra">Aplicación de muestra</string>
+    <string name="demoapp">DemoApp</string>
+    <color name="black">#2d2c2b</color>
+    <color name="grey">#9a9f9a</color>
+
+    <string-array name="dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string-array name="peliculas">
+        <item>Cadena perpetua (1994)</item>
+        <item>El padrino (1972)</item>
+        <item>El padrino  Parte II (1974)</item>
+        <item>El caballero oscuro (2008)</item>
+        <item>Pulp Fiction (1994)</item>
+        <item>El bueno, el feo y el malo (1966)</item>
+        <item>La lista de Schindler (1993)</item>
+        <item>12 hombres sin piedad (1957)</item>
+        <item>El señor de los anillos: El retorno del rey (2003)</item>
+        <item>El club de la lucha (1999)</item>
+        <item>El señor de los anillos: La comunidad del anillo (2001)</item>
+        <item>El imperio contraataca (1980)</item>
+        <item>Origen (2010)</item>
+        <item>Forrest Gump (1994)</item>
+        <item>Alguien voló sobre el nido del cuco (1975)</item>
+        <item>El señor de los anillos: Las dos torres (2002)</item>
+        <item>Uno de los nuestros (1990)</item>
+        <item>La guerra de las galaxias (1977)</item>
+        <item>Matrix (1999)</item>
+        <item>Los siete samuráis (1954)</item>
+        <item>Ciudad de Dios (2002)</item>
+        <item>Seven (1995)</item>
+        <item>Sospechosos habituales (1995)</item>
+        <item>El silencio de los corderos (1991)</item>
+        <item>Hasta que llegó su hora (1968)</item>
+        <item>¡Qué bello es vivir! (1946)</item>
+        <item>El profesional Léon (1994)</item>
+        <item>Casablanca (1942)</item>
+        <item>La vida es bella (1997)</item>
+        <item>En busca del arca perdida (1981)</item>
+        <item>Psicosis (1960)</item>
+        <item>American History X (1998)</item>
+        <item>La ventana indiscreta (1954)</item>
+        <item>Luces de la ciudad (1931)</item>
+        <item>Salvar al soldado Ryan (1998)</item>
+        <item>El viaje de Chihiro (2001)</item>
+        <item>Intocable (2011)</item>
+        <item>Memento (2000)</item>
+        <item>Tiempos modernos (1936)</item>
+        <item>Terminator 2: El juicio final (1991)</item>
+        <item>El crepúsculo de los dioses (1950)</item>
+        <item>El pianista (2002)</item>
+        <item>¿Teléfono rojo?, volamos hacia Moscú (1964)</item>
+        <item>Apocalypse Now (1979)</item>
+        <item>La milla verde (1999)</item>
+        <item>Infiltrados (2006)</item>
+        <item>Gladiator (2000)</item>
+        <item>Regreso al futuro (1985)</item>
+        <item>Alien, el octavo pasajero (1979)</item>
+        <item>El caballero oscuro: La leyenda renace (2012)</item>
+        <item>Django desencadenado (2012)</item>
+        <item>El truco final. El prestigio (2006)</item>
+        <item>La vida de los otros (2006)</item>
+        <item>El gran dictador (1940)</item>
+        <item>El resplandor (1980)</item>
+        <item>Cinema Paradiso (1988)</item>
+        <item>El rey león (1994)</item>
+        <item>Senderos de gloria (1957)</item>
+        <item>American Beauty (1999)</item>
+        <item>WALL·E.  Batallón de limpieza (2008)</item>
+        <item>Con la muerte en los talones (1959)</item>
+        <item>Amelie (2001)</item>
+        <item>Ciudadano Kane (1941)</item>
+        <item>Aliens. El regreso (1986)</item>
+        <item>Vértigo.  De entre los muertos (1958)</item>
+        <item>Toy Story 3 (2010)</item>
+        <item>M, el vampiro de Düsseldorf (1931)</item>
+        <item>El submarino (1981)</item>
+        <item>La naranja mecánica (1971)</item>
+        <item>Taxi Driver (1976)</item>
+        <item>Old Boy (2003)</item>
+        <item>Perdición (1944)</item>
+        <item>La princesa Mononoke (1997)</item>
+        <item>Reservoir Dogs (1992)</item>
+        <item>El retorno del Jedi (1983)</item>
+        <item>Érase una vez en América (1984)</item>
+        <item>Matar a un ruiseñor (1962)</item>
+        <item>Réquiem por un sueño (2000)</item>
+        <item>Braveheart (1995)</item>
+        <item>Lawrence de Arabia (1962)</item>
+        <item>La tumba de las luciérnagas (1988)</item>
+        <item>¡Olvídate de mí! (2004)</item>
+        <item>Testigo de cargo (1957)</item>
+        <item>La chaqueta metálica (1987)</item>
+        <item>Cantando bajo la lluvia (1952)</item>
+        <item>El golpe (1973)</item>
+        <item>Ladrón de bicicletas (1948)</item>
+        <item>Los caballeros de la mesa cuadrada y sus locos seguidores (1975)</item>
+        <item>Amadeus (1984)</item>
+        <item>Eva al desnudo (1950)</item>
+        <item>Snatch: cerdos y diamantes (2000)</item>
+        <item>Rashomon, el bosque ensangrentado (1950)</item>
+        <item>L.A.  Confidential (1997)</item>
+        <item>X-Men: Días del futuro pasado (2014)</item>
+        <item>El tesoro de Sierra Madre (1948)</item>
+        <item>El apartamento (1960)</item>
+        <item>Con faldas y a lo loco (1959)</item>
+        <item>El tercer hombre (1949)</item>
+        <item>La muerte tenía un precio (1965)</item>
+        <item>Indiana Jones y la última cruzada (1989)</item>
+        <item>Malditos bastardos (2009)</item>
+        <item>El chico (1921)</item>
+        <item>Nader y Simin, una separación (2011)</item>
+        <item>2001: Una odisea del espacio (1968)</item>
+        <item>Batman Begins (2005)</item>
+        <item>Yojimbo (1961)</item>
+        <item>Metrópolis (1927)</item>
+        <item>Sin perdón (1992)</item>
+        <item>Toro salvaje (1980)</item>
+        <item>Toy Story Juguetes (1995)</item>
+        <item>Chinatown (1974)</item>
+        <item>El precio del poder (1983)</item>
+        <item>Up (2009)</item>
+        <item>El lobo de Wall Street (2013)</item>
+        <item>Jungla de cristal (1988)</item>
+        <item>El hundimiento (2004)</item>
+        <item>La gran evasión (1963)</item>
+        <item>Caballero sin espada (1939)</item>
+        <item>El laberinto del fauno (2006)</item>
+        <item>Taare Zameen Par (2007)</item>
+        <item>La ley del silencio (1954)</item>
+        <item>El puente sobre el río Kwai (1957)</item>
+        <item>Heat (1995)</item>
+        <item>3 Idiots (2009)</item>
+        <item>La caza (2012)</item>
+        <item>El séptimo sello (1957)</item>
+        <item>Fresas salvajes (1957)</item>
+        <item>Vivir (1952)</item>
+        <item>El hombre elefante (1980)</item>
+        <item>Ran (1985)</item>
+        <item>Mi vecino Totoro (1988)</item>
+        <item>El maquinista de La General (1926)</item>
+        <item>Blade Runner (1982)</item>
+        <item>La quimera del oro (1925)</item>
+        <item>Lock And Stock (1998)</item>
+        <item>El indomable Will Hunting (1997)</item>
+        <item>El gran hotel Budapest (2014)</item>
+        <item>Gran Torino (2008)</item>
+        <item>Rebeca (1940)</item>
+        <item>El secreto de sus ojos (2009)</item>
+        <item>El gran Lebowski (1998)</item>
+        <item>Casino, de Scorsese (1995)</item>
+        <item>Sucedió una noche (1934)</item>
+        <item>La última pelea (2011)</item>
+        <item>Rush (2013)</item>
+        <item>V de Vendetta (2005)</item>
+        <item>El cazador (1978)</item>
+        <item>La leyenda del indomable (1967)</item>
+        <item>12 años de esclavitud (2013)</item>
+        <item>Fargo (1996)</item>
+        <item>El halcón maltés (1941)</item>
+        <item>El castillo ambulante (2004)</item>
+        <item>Rang De Basanti (2006)</item>
+        <item>Trainspotting (1996)</item>
+        <item>Lo que el viento se llevó (1939)</item>
+        <item>Hacia rutas salvajes (2007)</item>
+        <item>Cómo entrenar a tu dragón (2010)</item>
+        <item>Hotel Rwanda (2004)</item>
+        <item>Vencedores o vencidos (1961)</item>
+        <item>El sexto sentido (1999)</item>
+        <item>Dos hombres y un destino (1969)</item>
+        <item>Una mente maravillosa (2001)</item>
+        <item>La cosa (1982)</item>
+        <item>Crimen perfecto (1954)</item>
+        <item>El salario del miedo (1953)</item>
+        <item>Platoon (1986)</item>
+        <item>Kill Bill.  Volume 1 (2003)</item>
+        <item>No es país para viejos (2007)</item>
+        <item>Buscando a Nemo (2003)</item>
+        <item>Dos extraños amantes (1977)</item>
+        <item>Mary y Max (2009)</item>
+        <item>La ciudad del pecado (2005)</item>
+        <item>La vida de Brian (1979)</item>
+        <item>Sed de mal (1958)</item>
+        <item>Las diabólicas (1955)</item>
+        <item>Network, un mundo implacable (1976)</item>
+        <item>La princesa prometida (1987)</item>
+        <item>Cuenta conmigo (1986)</item>
+        <item>Amores perros (2000)</item>
+        <item>Incendies (2010)</item>
+        <item>El mago de Oz (1939)</item>
+        <item>Marvel Los vengadores (2012)</item>
+        <item>Ben-Hur (1959)</item>
+        <item>Pozos de ambición (2007)</item>
+        <item>Las uvas de la ira (1940)</item>
+        <item>Ella (2013)</item>
+        <item>Los 400 golpes (1959)</item>
+        <item>Los mejores años de nuestra vida (1946)</item>
+        <item>Million Dollar Baby (2004)</item>
+        <item>Siempre a tu lado. Hachiko (2009)</item>
+        <item>En el nombre del padre (1993)</item>
+        <item>Donnie Darko (2001)</item>
+        <item>Fellini 8½ (1963)</item>
+        <item>El ultimátum de Bourne (2007)</item>
+        <item>Extraños en un tren (1951)</item>
+        <item>Persona (1966)</item>
+        <item>Gandhi (1982)</item>
+        <item>Solo ante el peligro (1952)</item>
+        <item>El discurso del rey (2010)</item>
+        <item>Encadenados (1946)</item>
+        <item>Tiburón (1975)</item>
+        <item>Nausicaä del Valle del Viento (1984)</item>
+        <item>Juego sucio (2002)</item>
+        <item>Doce monos (1995)</item>
+        <item>Fanny y Alexander (1982)</item>
+        <item>Terminator (1984)</item>
+        <item>Ip Man (2008)</item>
+        <item>La strada (1954)</item>
+        <item>Stalker (1979)</item>
+        <item>La noche del cazador (1955)</item>
+        <item>Lagaan: Érase una vez en la India (2001)</item>
+        <item>Atrapado en el tiempo (1993)</item>
+        <item>Harry Potter y las reliquias de la muerte - Parte 2 (2011)</item>
+        <item>Rocky (1976)</item>
+        <item>Tarde de perros (1975)</item>
+        <item>Shutter Island (2010)</item>
+        <item>¿Quién teme a Virginia Woolf? (1966)</item>
+        <item>Capitán América: El soldado de invierno (2014)</item>
+        <item>El odio (1995)</item>
+        <item>El sueño eterno (1946)</item>
+        <item>La batalla de Argel (1966)</item>
+        <item>Piratas del Caribe. La maldición de la Perla Negra (2003)</item>
+        <item>Antes de amanecer (1995)</item>
+        <item>Barry Lyndon (1975)</item>
+        <item>Monstruos, S.A. (2001)</item>
+        <item>El graduado (1967)</item>
+        <item>Gravity (2013)</item>
+        <item>El buscavidas (1961)</item>
+        <item>Vacaciones en Roma (1953)</item>
+        <item>Crónica de un asesino en serie (2003)</item>
+        <item>El castillo en el cielo (1986)</item>
+        <item>Celebración (1998)</item>
+        <item>Por un puñado de dólares (1964)</item>
+        <item>Criadas y señoras (2011)</item>
+        <item>Deseando amar (2000)</item>
+        <item>Historias de Navidad (1983)</item>
+        <item>Slumdog Millionaire (2008)</item>
+        <item>El show de Truman. Una vida en directo (1998)</item>
+        <item>Traidor en el infierno (1953)</item>
+        <item>Swades: We, the People (2004)</item>
+        <item>Underground (1995)</item>
+        <item>La soga (1948)</item>
+        <item>Atraco perfecto (1956)</item>
+        <item>La bella y la bestia (1991)</item>
+        <item>Tropa de élite 2 (2010)</item>
+        <item>Parque Jurásico (1993)</item>
+        <item>Cisne negro (2010)</item>
+        <item>Tres colores: Rojo (1994)</item>
+        <item>La escafandra y la mariposa (2007)</item>
+        <item>Antes del atardecer (2004)</item>
+    </string-array>
+
+    <string-array name="provincias">
+        <item>Buenos Aires</item>
+        <item>Catamarca</item>
+        <item>Chaco</item>
+        <item>Chubut</item>
+        <item>Córdoba</item>
+        <item>Corrientes</item>
+        <item>Entre Ríos</item>
+        <item>Formosa</item>
+        <item>Jujuy</item>
+        <item>La Pampa</item>
+        <item>La Rioja</item>
+        <item>Mendoza</item>
+        <item>Misiones</item>
+        <item>Neuquén</item>
+        <item>Río Negro</item>
+        <item>Salta</item>
+        <item>San Juan</item>
+        <item>San Luis</item>
+        <item>Santa Cruz</item>
+        <item>Santa Fe</item>
+        <item>Santiago del Estero</item>
+        <item>Tierra del Fuego</item>
+        <item>Tucumán</item>
+    </string-array>
+    <string-array name="abreviaturas">
+        <item>"BA"</item>
+        <item>"CT"</item>
+        <item>"CC"</item>
+        <item>"CH"</item>
+        <item>"CD"</item>
+        <item>"CR"</item>
+        <item>"ER"</item>
+        <item>"FO"</item>
+        <item>"JY"</item>
+        <item>"LP"</item>
+        <item>"LR"</item>
+        <item>"MZ"</item>
+        <item>"MN"</item>
+        <item>"NQN"</item>
+        <item>"RN"</item>
+        <item>"SA"</item>
+        <item>"SJ"</item>
+        <item>"SL"</item>
+        <item>"SC"</item>
+        <item>"SF"</item>
+        <item>"SE"</item>
+        <item>"TF"</item>
+        <item>"TM"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/musica_activity_tvReproduciendoTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="reproduciendo"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/musica_activity_tvReproduciendo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="reproduciendo" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/musica_activity_imgArte"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:src="@drawable/lake_of_fire" android:contentDescription="todo"/>
+
+    <SeekBar
+        android:id="@+id/musica_activity_skbSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" android:contentDescription="todo">
+
+        <ImageButton
+            android:id="@+id/musica_activity_imbRetroceder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:src="@android:drawable/ic_media_rew" android:contentDescription="todo"/>
+
+        <ImageButton
+            android:id="@+id/musica_activity_imbPausar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:src="@android:drawable/ic_media_pause" android:contentDescription="todo"/>
+
+        <ImageButton
+            android:id="@+id/musica_activity_imbReproducir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:src="@android:drawable/ic_media_play" android:contentDescription="TODO"/>
+
+        <ImageButton
+            android:id="@+id/musica_activity_imbAvanzar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:src="@android:drawable/ic_media_ff" android:contentDescription="TODO"/>
+    </LinearLayout>
+
+</LinearLayout>
