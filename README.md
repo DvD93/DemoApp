@@ -1,5 +1,5 @@
 # DemoApp
-Aplicación Android de muestra [Descargar](https://github.com/DvD93/DemoApp/raw/master/app/release/DemoApp.apk)
+Aplicación Android de muestra - [Descargar](https://github.com/DvD93/DemoApp/raw/master/app/release/DemoApp.apk)
 
 Puedes clonar el repositorio y aprender conceptos sobre el desarrollo de aplicaciones en Android, desde como crear y configurar un botón para que realice una tarea en específico hasta consumir servicios HTTP (JSON) y mostarlos en un adapter. Eso y próximamente más conceptos disponibles en éste repositorio.  
 
